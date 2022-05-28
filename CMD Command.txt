@@ -1,0 +1,1 @@
+java --module-path "D:\_Installed Softwares_\java-2021-03\eclipse\javafx-sdk-17.0.1\lib" --add-modules javafx.controls,javafx.fxml,javafx.web -jar Browser.jar
